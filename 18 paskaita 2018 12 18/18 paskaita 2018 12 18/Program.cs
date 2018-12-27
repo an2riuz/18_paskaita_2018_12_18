@@ -57,7 +57,7 @@ namespace _18_paskaita_2018_12_18
         {
         */
 
-
+            List<Student> studentai = new List<Student>;
         }
         
     }
